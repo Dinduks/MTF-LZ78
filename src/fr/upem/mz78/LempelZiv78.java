@@ -9,8 +9,8 @@ import java.util.Map;
 import java.util.TreeMap;
 
 /**
- * @author Sybille Crimet
- * 
+ * @author Sybille Crimet <crimet.sybille@gmail.com>
+ *
  */
 public class LempelZiv78 {
     /**

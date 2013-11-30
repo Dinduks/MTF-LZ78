@@ -2,6 +2,10 @@ package fr.upem.mz78;
 
 import java.io.*;
 
+/**
+ * @author Samy Dindane <samy@dindane.com>
+ *
+ */
 public class MoveToFront {
     /**
      * Encodes the given InputStream using the MTF algorithm into the given
